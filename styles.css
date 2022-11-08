@@ -105,6 +105,7 @@ body {
     margin: 0 190px 0 190px;
     justify-content: center;
     align-items: center;
+    padding: 10px 0 50px 0;
 }
 
 h2 {
@@ -134,3 +135,22 @@ h2 {
     color: #6c757d;
     font-weight: 500;
 }
+
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 32px;
+    font-style: italic;
+    padding: 40px 100px 40px 100px;
+    font-weight: lighter;
+}
+
+.ac {
+    font-size: 24px;
+    font-weight: bolder;
+    padding: 0 0 500px 800px;
+}
+
+
+
+
