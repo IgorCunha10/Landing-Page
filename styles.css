@@ -99,3 +99,38 @@ body {
     margin-right: 160px;
     color: #E5E7EB;
 }
+
+.squares {
+    display: flex;
+    margin: 0 190px 0 190px;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 30px;
+    color: #1F2937;
+}
+
+.blue-square {
+    border: 3px solid #3882F6;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    
+}
+
+.flex-comb {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: min-content;
+    margin: 15px;
+    color: #6c757d;
+    font-weight: 500;
+}
