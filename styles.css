@@ -151,6 +151,47 @@ h2 {
     padding: 0 0 500px 800px;
 }
 
+.fourth-section {
+    background-color: white;
+}
 
+.call-to-action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #3882F6;
+    color: #F9FAF8;
+    flex-wrap: wrap;
+    margin: 60px 140px 60px 140px;
+    border-radius: 5px;
+}
+
+.cta-2 {
+    background: #3882F6;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    margin: 40px 0px 40px 100px;
+}
+
+.text-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    gap: 0;
+}
+
+.text-info h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.text-info p {
+    padding: 0;
+    margin: 0;
+}
 
 
