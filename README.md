@@ -17,7 +17,7 @@ O currículo do TOP me ajudou a preencher as lacunas de conhecimento para a real
 
 ### Resultado Final
 
-This site was built using [GitHub Pages](https://igorcunha10.github.io/Landing-Page/).
+[Live Site](https://igorcunha10.github.io/Landing-Page/).
 
 ## [EN-US]
 This is a Landing Page project created for the Web Full Stack curriculum at The Odin Project.
@@ -35,4 +35,4 @@ The TOP curriculum helped me to fill in the knowledge gaps for the challenge, an
 
 ### Final Result
 
-This site was built using [GitHub Pages](https://igorcunha10.github.io/Landing-Page/).
+[Live Site](https://igorcunha10.github.io/Landing-Page/).
